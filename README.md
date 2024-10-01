@@ -11,7 +11,6 @@ This project focuses on segmenting brain metastases in MRI scans using two advan
 
 Nested U-Net improves upon the traditional U-Net by adding additional skip pathways, which helps in better feature propagation.
 
-
 # Attention U-Net
 
 Attention U-Net incorporates attention mechanisms to focus on more relevant features, enhancing segmentation performance, especially in complex images.
