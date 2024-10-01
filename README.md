@@ -18,10 +18,10 @@ Attention U-Net incorporates attention mechanisms to focus on more relevant feat
 
 ## Data Preprocessing
 
-# Load Data: Images and their corresponding masks are read from the file system.
-# CLAHE: Contrast Limited Adaptive Histogram Equalization (CLAHE) is applied for better contrast.
-# Normalization: Pixel values are normalized to the range [0, 1].
-# Data Augmentation: Includes rotation, shifting, and flipping to improve model generalization.
+Load Data: Images and their corresponding masks are read from the file system.
+CLAHE: Contrast Limited Adaptive Histogram Equalization (CLAHE) is applied for better contrast.
+Normalization: Pixel values are normalized to the range [0, 1].
+Data Augmentation: Includes rotation, shifting, and flipping to improve model generalization.
 
 ## Model Training
 
